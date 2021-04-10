@@ -1,7 +1,7 @@
 # NLP_TASK3
-###Use a given dataset to build a model to predict the category using the description. 
+##Use a given dataset to build a model to predict the category using the description. 
 
-###Dataset Link
+##Dataset Link
 https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
 
 ##Prerequisites:
