@@ -6,8 +6,10 @@ https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEO
 
 ## Prerequisites:
 Python version 3.6.5. 
+
 NLTK library should be installed
-Downloading and uploading the dataset into the Jupyter notebook with name'flipkart_sample.csv' extension
+
+Downloading and uploading the dataset into the Jupyter notebook with name'flipkart_sample.csv' 
 
 ## INTRODUCTION
 A large amount of data that is in the dataset is unstructured, which requires processing to produce insights. Unstructured data stands as website links, punctuation marks and search history. The process of analysing natural language and d riving out a meaning for it comes under the field of Natural Language Processing (NLP). We will use the Natural Language Toolkit (NLTK), a commonly used NLP library in Python, to analyse textual data.
