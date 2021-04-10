@@ -15,6 +15,7 @@ A large amount of data that is in the dataset is unstructured, which requires pr
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Bibliography](#bibliography)
 
 ## General info
 Using the dataset built a model to predict the category using the description.
