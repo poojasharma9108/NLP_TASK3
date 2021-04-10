@@ -28,11 +28,20 @@ SCIKIT_LEARN library
 
 ## Bibliograpghy
 KN ACADEMY(https://youtu.be/H7-j9Ix1aH8)
+
 scikit-learn.org
+
 blog.ekbana.com
+
 machinelearningmastery.com
+
 towardsdatascience.com
+
 www.geeksforgeeks.org
+
 www.programcreek.com
+
 heartbeat.fritz.ai
+
 www.programmersought.com
+
